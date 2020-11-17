@@ -1,0 +1,1 @@
+This is Ng's first git project!
